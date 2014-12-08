@@ -1,4 +1,7 @@
-# X3-Alpha - Color scheme for Sublime Text 3!
+# X3-Alpha - Color scheme
+Made for Sublime Text 3 - haven't tried it on ST2.
+
+This is a very balanced and soft scheme. Awesome for night work.
 
 Just PHP
 ========
