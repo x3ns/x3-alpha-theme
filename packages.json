@@ -3,13 +3,13 @@
 	"packages": [
 		{
 			"name": "X3-Alpha Color Scheme",
-			"author": "x3ns <ns@nsyed.com>",
 			"details": "https://github.com/x3ns/x3-alpha-theme",
+			"author": "x3ns <ns@nsyed.com>",
 			"labels": ["color scheme"],
 			"releases": [
 				{
 					"sublime_text": "*",
-					"details": "https://github.com/x3ns/x3-alpha-theme/tags"
+					"tags": true
 				}
 			]
 		}
